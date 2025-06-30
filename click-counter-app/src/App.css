@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  font-size: 4rem;
+  margin: 1rem 0;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.limit {
+  color: red;
+  margin-top: 1rem;
+  font-weight: bold;
+}
